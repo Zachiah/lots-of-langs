@@ -1,0 +1,9 @@
+target/
+node_modules
+*.class
+_build/
+_opam/
+.fake
+META_INF
+zig-cache
+zig-out

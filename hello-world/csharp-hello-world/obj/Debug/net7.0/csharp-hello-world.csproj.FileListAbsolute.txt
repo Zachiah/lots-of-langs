@@ -1,0 +1,15 @@
+/Users/zachiahsawyer/Git/lots-of-langs/hello-world/csharp-hello-world/bin/Debug/net7.0/csharp-hello-world
+/Users/zachiahsawyer/Git/lots-of-langs/hello-world/csharp-hello-world/bin/Debug/net7.0/csharp-hello-world.deps.json
+/Users/zachiahsawyer/Git/lots-of-langs/hello-world/csharp-hello-world/bin/Debug/net7.0/csharp-hello-world.runtimeconfig.json
+/Users/zachiahsawyer/Git/lots-of-langs/hello-world/csharp-hello-world/bin/Debug/net7.0/csharp-hello-world.dll
+/Users/zachiahsawyer/Git/lots-of-langs/hello-world/csharp-hello-world/bin/Debug/net7.0/csharp-hello-world.pdb
+/Users/zachiahsawyer/Git/lots-of-langs/hello-world/csharp-hello-world/obj/Debug/net7.0/csharp-hello-world.csproj.AssemblyReference.cache
+/Users/zachiahsawyer/Git/lots-of-langs/hello-world/csharp-hello-world/obj/Debug/net7.0/csharp-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachiahsawyer/Git/lots-of-langs/hello-world/csharp-hello-world/obj/Debug/net7.0/csharp-hello-world.AssemblyInfoInputs.cache
+/Users/zachiahsawyer/Git/lots-of-langs/hello-world/csharp-hello-world/obj/Debug/net7.0/csharp-hello-world.AssemblyInfo.cs
+/Users/zachiahsawyer/Git/lots-of-langs/hello-world/csharp-hello-world/obj/Debug/net7.0/csharp-hello-world.csproj.CoreCompileInputs.cache
+/Users/zachiahsawyer/Git/lots-of-langs/hello-world/csharp-hello-world/obj/Debug/net7.0/csharp-hello-world.dll
+/Users/zachiahsawyer/Git/lots-of-langs/hello-world/csharp-hello-world/obj/Debug/net7.0/refint/csharp-hello-world.dll
+/Users/zachiahsawyer/Git/lots-of-langs/hello-world/csharp-hello-world/obj/Debug/net7.0/csharp-hello-world.pdb
+/Users/zachiahsawyer/Git/lots-of-langs/hello-world/csharp-hello-world/obj/Debug/net7.0/csharp-hello-world.genruntimeconfig.cache
+/Users/zachiahsawyer/Git/lots-of-langs/hello-world/csharp-hello-world/obj/Debug/net7.0/ref/csharp-hello-world.dll

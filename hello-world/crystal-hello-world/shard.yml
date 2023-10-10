@@ -1,0 +1,13 @@
+name: crystal-hello-world
+version: 0.1.0
+
+authors:
+  - Zachiah Sawyer <zachiah@proton.me>
+
+targets:
+  crystal-hello-world:
+    main: src/crystal-hello-world.cr
+
+crystal: 1.9.2
+
+license: MIT

@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/zachiahsawyer/Git/lots-of-langs/hello-world/fsharp-hello-world/fsharp-hello-world.fsproj": {}
+  },
+  "projects": {
+    "/Users/zachiahsawyer/Git/lots-of-langs/hello-world/fsharp-hello-world/fsharp-hello-world.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zachiahsawyer/Git/lots-of-langs/hello-world/fsharp-hello-world/fsharp-hello-world.fsproj",
+        "projectName": "fsharp-hello-world",
+        "projectPath": "/Users/zachiahsawyer/Git/lots-of-langs/hello-world/fsharp-hello-world/fsharp-hello-world.fsproj",
+        "packagesPath": "/Users/zachiahsawyer/.nuget/packages/",
+        "outputPath": "/Users/zachiahsawyer/Git/lots-of-langs/hello-world/fsharp-hello-world/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zachiahsawyer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/opt/homebrew/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/FSharp/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

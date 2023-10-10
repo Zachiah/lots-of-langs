@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gg/R5zfhvYvuXjDmN2oPc3EOLn8FxomU6wP+V7yTSwTxnim/auxvUK9JyVR0LM/3L3p9Ihr12Nd+6NzNj4xfdA==",
+  "success": true,
+  "projectFilePath": "/Users/zachiahsawyer/Git/lots-of-langs/hello-world/fsharp-hello-world/fsharp-hello-world.fsproj",
+  "expectedPackageFiles": [
+    "/Users/zachiahsawyer/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
