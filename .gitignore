@@ -7,3 +7,6 @@ _opam/
 META_INF
 zig-cache
 zig-out
+.metals
+.scala-build
+.vscode
