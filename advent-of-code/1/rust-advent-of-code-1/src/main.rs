@@ -28,8 +28,12 @@ impl State {
         self
     }
 
-    fn result(self) -> i32 {
+    fn result_pt2(&self) -> i32 {
         self.highest.iter().sum()
+    }
+
+    fn result_pt1(&self) -> i32 {
+        self.highest[0]
     }
 }
 
@@ -50,7 +54,8 @@ fn main() {
                     line => state.add(line.parse::<i32>().expect("Non number found in the file")),
                 }
             },
-        )
-        .result();
-    println!("{}", res);
+        );
+    
+    println!("Part1 result: {}", res.result_pt1());
+    println!("Part2 result: {}", res.result_pt2());
 }
