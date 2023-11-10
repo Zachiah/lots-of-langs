@@ -1,0 +1,3 @@
+# Rust Actix Sqlite Todo App
+
+An implementation of a todo app using the actix web framework. It is very barebones and probably horrible since this was my first project using actix and I'm still a rust newbie, but hey it works...
